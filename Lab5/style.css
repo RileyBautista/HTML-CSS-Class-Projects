@@ -1,0 +1,63 @@
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-display-regular-italic {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.stack-sans-headline-regular{
+  font-family: "Stack Sans Headline", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+body {
+    background-color: #7f5539
+
+}
+
+p {
+    color:#ede0d4;
+    font-family: Stack Sans Headline, sans-serif;
+}
+
+h2 {
+    color:#ede0d4;
+    font-family: DM Serif Display, sans-serif;
+
+}
+
+li {
+    color:#ede0d4;
+}
+
+a {
+    font-family: Stack Sans Headline, sans-serif;
+    color: #ede0d4
+}
+
+h1 {
+    color:#ede0d4;
+    font-family: DM Serif Display, sans-serif;
+}
+
+div {
+    color:#ede0d4;
+    font-family: Stack Sans Headline, sans-serif
+
+
+}
+
+.flex_container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
